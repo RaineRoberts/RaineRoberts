@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
 - ![CCNA](https://img.shields.io/badge/CCNA-Study%20in%20progress-blue)
 - ![Azure](https://img.shields.io/badge/Azure-Learning-brightgreen)
-- ![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-orange)
+- ![AWS](https://img.shields.io/badge/AWS-Learning-orange)
 - ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Studying-red)
 - ![Agile](https://img.shields.io/badge/Agile-Practicing-yellowgreen)
 - 
