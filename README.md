@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **@RaineRoberts** !
+# 👋 Kia ora, I’m **@RaineRoberts** !
 - 👀 I’m interested in ...
 - **Solutions, Infrastructure, Cyber Security, and A.I**
 -
