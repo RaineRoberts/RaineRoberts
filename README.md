@@ -20,7 +20,7 @@
 - **He/Him**!
 -
 - ⚡ Fun fact: ...
-- **My favourite hobby is reading stories on RoyalRoad**
+- **My favourite hobby is reading webnovels on RoyalRoad**
 
 <!---
 RaineRoberts/RaineRoberts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
