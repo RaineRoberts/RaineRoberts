@@ -20,7 +20,7 @@
 - **He/Him**!
 -
 - ⚡ Fun fact: ...
-- **My favourite hobby is reading webnovels on RoyalRoad**
+- **When not at my computer reading or working, I can be found at the beach with a fishing rod or metal detector**
 
 <!---
 RaineRoberts/RaineRoberts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
