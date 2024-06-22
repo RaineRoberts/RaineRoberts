@@ -1,6 +1,6 @@
 # 👋 Kia ora, I’m **@RaineRoberts** !
 - 👀 I’m interested in ...
-- **Solutions, Infrastructure, Cyber Security, and A.I**
+- **Solutions, Network Infrastructure, Cyber Security, Cloud Services and A.I**
 -
 - 🌱 I’m currently learning ...
 - ![CCNA](https://img.shields.io/badge/CCNA-Study%20in%20progress-blue)
